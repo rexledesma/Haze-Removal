@@ -7,6 +7,6 @@ A Python implementation of "Single Image Haze Removal Using Dark Channel Prior" 
 ## Setup
 ```
 python3 -m venv haze-removal
-source haze-removal/bin/source/activate
+source haze-removal/bin/activate
 pip3 install -r requirements.txt
 ```
